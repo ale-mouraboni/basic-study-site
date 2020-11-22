@@ -88,8 +88,12 @@ main .logo img {
 }
 
 .search input {
+    background-image: url("../img/icone-search.png");
+    background-repeat: no-repeat;
+    background-position: 95%;
     margin-top: 10px;
     height: 5px;
     width: 190px;
     padding: 12px;
+    border: 1px solid #d6d6d6;
 }
