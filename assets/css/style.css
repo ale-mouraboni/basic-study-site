@@ -5,8 +5,11 @@ body {
     margin: 0 auto;
 }
 
-/* navbar */
-/* 1° */
+ul {
+    padding: 0px !important;
+}
+
+/* navbar-1 */
 .main-menu {
     background-color: #252323;
     height: 60px;
@@ -20,7 +23,7 @@ main {
 }
 
 main .logo img {
-    margin-left: 320px;
+    margin-left: 153px;
 }
 
 .logo {
@@ -41,4 +44,52 @@ main .logo img {
     float: right;
 }
 
-/* 2° */
+/* navbar-2 */
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.menu-nav-2 {
+    border-bottom: 3px solid #efefef;
+    height: 80px;
+}
+
+.nav-2 {
+    background-color: #ffffff;
+    width: 980px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+.menu ul li {
+    display: inline-block;
+    color: #8b8b8b;
+    margin-left: 15px;
+}
+
+.menu ul li a {
+    color: #8b8b8b;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.menu {
+    width: 70%;
+    float: left;
+}
+
+.search {
+    width: 30%;
+    float: right;
+    text-align: center;
+}
+
+.search input {
+    margin-top: 10px;
+    height: 5px;
+    width: 190px;
+    padding: 12px;
+}
