@@ -33,6 +33,7 @@ main {
     display: inline-block;
     float: left;
     margin-left: 15px;
+    padding-left: 12px;
 }
 
 .social-networks {
