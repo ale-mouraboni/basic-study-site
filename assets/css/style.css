@@ -165,7 +165,7 @@ button.slick-next {
     background: transparent;
     border-radius: 50%;
     cursor: pointer;
-
+    outline: none;
 }
 
 .slick-dots {
