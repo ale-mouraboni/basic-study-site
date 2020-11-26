@@ -159,9 +159,9 @@ button.slick-next {
 
 .slick-dots li button {
     font-size: 0px;
-    border: 5px solid #ffffff;
-    width: 26px;
-    height: 26px;
+    border: 6px solid #ffffff;
+    width: 25px;
+    height: 25px;
     background: transparent;
     border-radius: 50%;
     cursor: pointer;
@@ -172,8 +172,8 @@ button.slick-next {
     margin: 0 auto;
     width: 50%;
     position: absolute;
-    left: 50%;
-    top: 600px;
+    left: 600px;
+    top: 390px;
 }
 
 li.slick-active button {
@@ -186,5 +186,5 @@ li.slick-active button {
 }
 
 ul.slick-dots li.slick-active {
-    background-color: #00bac6;
+    color: #00bac6;
 }
