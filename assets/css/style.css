@@ -199,9 +199,11 @@ ul.slick-dots li.slick-active {
 }
 
 .texto-destaque h1 {
+    font-size: 30px;
     color: #818181;
 }
 
 .texto-destaque p {
+    font-size: 15px;
     color: #9a9a9a;
 }
