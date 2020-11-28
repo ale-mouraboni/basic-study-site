@@ -16,7 +16,7 @@ ul {
     width: 100%;
 }
 
-main {
+main, .content {
     width: 980px;
     position: relative;
     margin: 0 auto;
@@ -187,4 +187,21 @@ li.slick-active button {
 
 ul.slick-dots li.slick-active {
     color: #00bac6;
+}
+
+/* cards */
+.texto-destaque {
+    text-align: center;
+}
+
+.texto-destaque strong {
+    color: #646464;
+}
+
+.texto-destaque h1 {
+    color: #818181;
+}
+
+.texto-destaque p {
+    color: #9a9a9a;
 }
