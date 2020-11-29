@@ -291,3 +291,31 @@ cursor: pointer;
     margin-top: 50px;
 }
 
+/* footer */
+.footer h3 {
+    text-align: left;
+}
+
+.footer {
+    background-image: url('../img/footer.png');
+    color: #ffffff;
+}
+
+.footer-2 {
+    background-image: url('../img/footer2.png');
+    color: #c1c1c1;
+    height: 90px;
+}
+
+.footer p {
+    width: 90%;
+    text-align: left;
+}
+
+.footer-2 p {
+    padding: 10px;
+}
+
+.clock {
+    color: #898989!important;
+}
