@@ -1,5 +1,7 @@
+<h1 align="center">Web World</h1>
+
   <p align="center">
-<img src="https://github.com/ale-mouraboni/basic-study-site/blob/main/assets/readme/web-world.gif">
+ <img src="https://github.com/ale-mouraboni/basic-study-site/blob/main/assets/readme/web-world.gif">
   </p>
  
 <p align="center">Esse projeto foi desenvolvido com base no canal <a href="https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM">Escola Front-end (Criando um site do zero com HTML, CSS e JS)</a></p>
