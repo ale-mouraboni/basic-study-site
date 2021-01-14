@@ -32,7 +32,7 @@ $ git clone https://github.com/ale-mouraboni/web-world.git
 #2 - Abra o index.html
 ```
 
-<h2 id="about">:heavy_check_mark: About</h2>
+<h2 id="about">:check; About</h2>
 <p>Esse projeto foi desenvolvido durante o curso (Criando um site do zero com HTML, CSS e JS do canal Escola Front-end).
 <h4>Responsive?</h4>
 [ ] Yes  [x] No
