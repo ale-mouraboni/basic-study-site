@@ -33,7 +33,10 @@ $ git clone https://github.com/ale-mouraboni/web-world.git
 ```
 
 <h2 id="about">:heavy_check_mark: About</h2>
-<p>Esse projeto foi desenvolvido durante o curso (Criando um site do zero com HTML, CSS e JS do canal Escola Front-end).
+<p>
+Um site bem símples desenvolvido em html5, css3 e um pouco de JavaScript. Esse é um site de estudo feito principalmente para aperfeiçoar minha prática com os códigos.
+</br>
+Esse projeto foi desenvolvido durante o curso (Criando um site do zero com HTML, CSS e JS do canal Escola Front-end).
 <h4>Responsive?</h4>
 [ ] Yes  [x] No
 </p>
