@@ -1,39 +1,42 @@
-# Demo
-![Demo](readme/demo.png)
-![Demo](readme/demo-2.png)
-![Demo](readme/demo-3.png)
-![Demo](readme/demo-4.png)
+![Demo](readme/demo.gif)
 
-## Menu
-* [Tecnologias](#Tecnologias)
-* [Como Utilizar](#Como-Utilizar)
-* [About](#About)
-* [Link do Curso](#Link-do-Curso)
-* [License](#License)
+---
 
-## Tecnologias
-Projeto desenvolvido com as seguintes tecnologias:
+<div style="text-align: justify">
+
+### Descrição
+Esse é um site bem simples desenvolvido apenas com HTML5, CSS3 e jQuery que foi desenvolvido durante uma playlist do canal Escola Front-end. Durante o desenvolvimento desse site, pude conhecer um pouco mais sobre o HTML e CSS e foi de extrema importância para o meu desenvolvimento.  
+
+</div>
+
+---
+
+#### Link do Curso:
+
+* [Escola Front-end (Criando um site do zero com HTML5 e CSS3.)](https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM)
+
+---
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
 * jQuery
 
-## Como Utilizar
-```
-1. - Clone o repositório
-$ git clone https://github.com/ale-mouraboni/web-world.git
+---
 
-2. - Abra o index.html
-```
+Para ver o projeto você pode clonar ele com o seguinte comando:    
 
-## About
-Um site bem símples desenvolvido em HTML5, CSS3 e um pouco de JavaScript.  
-Esse é um site de estudo feito principalmente para aperfeiçoar minha prática com os códigos.  
-Projeto desenvolvido durante o curso **Criando um site do zero com HTML, CSS e JS** do canal **Escola Front-end**.
+```sh
+git clone https://github.com/ale-mouraboni/web-world.git
+```  
+  
+Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
+  
+[Baixar Projeto](https://github.com/ale-mouraboni/web-world/archive/refs/heads/main.zip)
 
-### Link do Curso:
+---
 
-* [Escola Front-end - Criando um site do zero com HTML5 e CSS3](https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM)
-
-## License
+### License
 This project is under the MIT license. See the [LICENSE] for more information.
 
+---
