@@ -9,20 +9,14 @@ Esse é um site bem simples desenvolvido apenas com HTML5, CSS3 e jQuery que foi
 
 </div>
 
----
-
 #### Link do Curso:
 
 * [Escola Front-end (Criando um site do zero com HTML5 e CSS3.)](https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM)
-
----
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
 * jQuery
-
----
 
 Para ver o projeto você pode clonar ele com o seguinte comando:    
 
@@ -32,7 +26,7 @@ git clone https://github.com/ale-mouraboni/web-world.git
   
 Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
   
-[Baixar Projeto](https://github.com/ale-mouraboni/web-world/archive/refs/heads/main.zip)
+* [Baixar Projeto](https://github.com/ale-mouraboni/web-world/archive/refs/heads/main.zip)
 
 ---
 
