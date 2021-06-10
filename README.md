@@ -1,5 +1,8 @@
 <h1 align="center">Web World</h1>
-<p align="center">A simple page made in HTML, CSS and jQuery. This project was developed during a playlist of the <strong>Escola Front-end</strong> channel.</p>
+<p align="center">A simple page made in HTML, CSS and jQuery. This project was developed during a playlist of the <strong>Escola Front-end</strong> channel.
+</br>
+<a href="https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM">Access Playlist</a>
+</p>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ale-mouraboni/web-world">
@@ -12,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="#globe_with_meridians-about">About</a>
+  <a href="#rocket-about">About</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -21,11 +24,8 @@
 
 ---
 
-### :globe_with_meridians: About
-
-:heavy_check_mark: Course link:
-
-* [Escola Front-end (Criando um site do zero com HTML5 e CSS3.)](https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM)
+### :rocket: About
+Project information
 
 :heavy_check_mark: Project developed with the following technologies:
 * HTML5
