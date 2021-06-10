@@ -1,36 +1,57 @@
-![Demo](readme/demo.gif)
+<h1 align="center">Web World</h1>
+<p align="center">A simple page made in HTML, CSS and jQuery. This project was developed during a playlist of the <strong>Escola Front-end</strong> channel.</p>
+
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ale-mouraboni/web-world">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ale-mouraboni/web-world">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ale-mouraboni/web-world">
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/ale-mouraboni/web-world">
+</p>
+
+<p align="center">
+  <a href="#heavy_check_mark-course-link">Course Link</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#heavy_check_mark-Project developed-with-the-following-technologies">Technologies</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a 
+  href="#heavy_check_mark-Clone the project with the command">See Project
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a 
+  href="#memo-license">License</a>
+</p>
+
+![Demo](demo.gif)
 
 ---
 
-<div style="text-align: justify">
+<h3 align="center">:globe_with_meridians: Main information about the project</h3>
 
-### Descrição
-Esse é um site bem simples desenvolvido apenas com HTML5, CSS3 e jQuery que foi desenvolvido durante uma playlist do canal Escola Front-end. Durante o desenvolvimento desse site, pude conhecer um pouco mais sobre o HTML e CSS e foi de extrema importância para o meu desenvolvimento.  
-
-</div>
-
-#### Link do Curso:
+:heavy_check_mark: Course link:
 
 * [Escola Front-end (Criando um site do zero com HTML5 e CSS3.)](https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM)
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+:heavy_check_mark: Project developed with the following technologies:
 * HTML5
 * CSS3
 * jQuery
 
-Para ver o projeto você pode clonar ele com o seguinte comando:    
+:heavy_check_mark: Clone the project with the command:
 
 ```sh
 git clone https://github.com/ale-mouraboni/web-world.git
 ```  
   
-Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
+:heavy_check_mark: Or download the .zip file:  
   
-* [Baixar Projeto](https://github.com/ale-mouraboni/web-world/archive/refs/heads/main.zip)
+* [Download Project](https://github.com/ale-mouraboni/web-world/archive/refs/heads/main.zip)
 
 ---
 
-### License
+### :memo: License
 This project is under the MIT license. See the [LICENSE] for more information.
 
 ---
