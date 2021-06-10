@@ -12,23 +12,16 @@
 </p>
 
 <p align="center">
-  <a href="#heavy_check_mark-course-link">Course Link</a>
+  <a href="#globe_with_meridians-about">About</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#heavy_check_mark-Project developed-with-the-following-technologies">Technologies</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a 
-  href="#heavy_check_mark-Clone the project with the command">See Project
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a 
-  href="#memo-license">License</a>
+  <a href="#memo-license">License</a>
 </p>
 
 ![Demo](demo.gif)
 
 ---
 
-<h3 align="center">:globe_with_meridians: Main information about the project</h3>
+### :globe_with_meridians: About
 
 :heavy_check_mark: Course link:
 
